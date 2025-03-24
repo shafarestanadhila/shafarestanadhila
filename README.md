@@ -4,7 +4,7 @@ Perkenalkan nama saya **Nadhila Shafaresta**.\
 Saya seorang **Mahasiswa Teknologi Rekayasa Perangkat Lunak** di [IPB University](https://www.ipb.ac.id/).\
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nadhilashafaresta-902227208/)ku ya.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafarestanadhila&label=Profile%20views&color=0e75b6&style=flat" alt="vangzbill" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafarestanadhila&label=Profile%20views&color=0e75b6&style=flat" alt="shafarestanadhila" /> </p>
 
 <p align="left">
 <a href="https://github.com/shafarestanadhila">
